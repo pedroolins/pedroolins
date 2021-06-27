@@ -1,6 +1,6 @@
 ## João Pedro Lins - [Data Scientist] 👋
 
-## Electrical Engineer Student turned Data Scientist
+## Electrical Engineering Student turned Data Scientist who loves to create solutions through data science that have positive effects on business and society!
 
 <p align='center'>
     <img height=300px src='https://github.com/pedroolins/pedroolins/blob/main/programador.png?raw=true'<
@@ -13,17 +13,9 @@
 
 ## Data Science Projects:
 
-### [COVID-19 in Pernambuco](https://github.com/jorgebarrosmedeiros/RossmannStore)
-  * Currently, knowing how much your company will bill in the coming weeks would change your decisions?
- This project aims to use machine learning techniques to forecast sales in the next 6 weeks of a store called Rossmann.
- The XGBoost algorithm was used, obtaining a MAPE of 15%.
- The performance of this model would bring revenue of $ 277 million according to the company's business model described in the problem definition.
-  * Repository: https://github.com/jorgebarrosmedeiros/RossmannStore
-  
-
-
-
-
+### [COVID-19 in Pernambuco](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
 ## Skills
 
