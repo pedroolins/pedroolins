@@ -3,7 +3,7 @@
 ## Electrical engineer student turned data scientist
 
 <p align='center'>
-    <img src='banner.png'<
+    <img height=300px src='https://github.com/pedroolins/pedroolins/blob/main/programador.png?raw=true'<
 </p>
 
 - 💻 I’m a Data Scientist
