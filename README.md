@@ -7,19 +7,8 @@
 </p>
 
 - 💻 I’m a Data Scientist
-- 💻 I'm also working as a Data Science Instructor
-- 📈 I’m constantly learning and Improving my skills 🤣
+- 📈 I’m constantly learning and Improving my skills
 - 📊 I’m looking to collaborate with other Data Scientists and developers 
-
-### About Me
-
-Hi, I can start by saying that I am completely in love with everything related to artificial intelligence and data science. I am an electronic engineering student at the Federal Rural University of Pernambuco and Data Science student at the Boa Viagem University. Currently, i am a Junior Data Scientist at Keycash company.
-
-I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
-
-I have already developed solutions for important business problems such as detecting fraud in transactions, classifying diseases early, identifying customers in churn and prioritizing customers for cross-selling.
-
-The details of each solution are described in the projects below.
 
 
 ## Data Science Projects:
