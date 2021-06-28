@@ -23,8 +23,8 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>MySQL</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+        <span>PostgreSQL</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
       </td>
       <td width="25%" align="center">
         <span>Python</span><br><br>
