@@ -56,6 +56,13 @@
         <span>SciPy</span><br><br>
         <img height="64px" src="https://bids.berkeley.edu/sites/default/files/styles/450x254/public/projects/scipy_logo_450x254.png?itok=kcdZBxrP">
       </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>statsmodels</span><br><br>
+        <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 
