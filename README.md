@@ -37,8 +37,8 @@
   * This is a repository of a study project in which I did exploratory data analysis and also used statistical hypothesis tests on a movie dataset.
   * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
-### [Web Scraping with Python](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
-  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
+### [Web Scraping with Python](https://github.com/pedroolins/Web-Scraping)
+  * Repository: https://github.com/pedroolins/Web-Scraping
 
 ## Skills
 
