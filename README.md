@@ -33,9 +33,9 @@
   * This is a repository of a study project in which I did an exploratory data analysis in a PNAD dataset.
   * Repository: https://github.com/pedroolins/Analise-descritiva-PNAD-2015
 
-### [Statistical Hypothesis Tests](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+### [Statistical Hypothesis Tests](https://github.com/pedroolins/Introduction-to-Statistical-Hypothesis-Tests)
   * This is a repository of a study project in which I did exploratory data analysis and also used statistical hypothesis tests on a movie dataset.
-  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
+  * Repository: https://github.com/pedroolins/Introduction-to-Statistical-Hypothesis-Tests
 
 ### [Web Scraping with Python](https://github.com/pedroolins/Web-Scraping)
   * Repository: https://github.com/pedroolins/Web-Scraping
