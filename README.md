@@ -32,11 +32,11 @@
   * Repository: https://github.com/pedroolins/Exploratory-Data-Analysis
 
 ### [Statistical Hypothesis Tests](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
-  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+  * This is a repository of a study project in which I did exploratory data analysis and also used statistical hypothesis tests on a movie dataset.
   * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
 ### [Web Scraping with Python](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
-  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
 ## Skills
 
