@@ -19,9 +19,9 @@
 
 ## what have i been studying:
 
-### [Linear Regression I](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+### [Linear Regression I](https://github.com/pedroolins/Linear-Regression-I)
   * The aim of this study project will be to estimate a Machine Learning model using the Linear Regression technique to demonstrate the impacts of the variables provided in this dataset on beer consumption (Y). At the end of the project we will have a forecast model for the average beer consumption according to the inputs of a set of variables (X's).
-  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
+  * Repository: https://github.com/pedroolins/Linear-Regression-I
 
 ### [Linear Regression II](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
   * the main objective of this study project is to develop a real estate valuation system using the linear regression methodology, which is one of the machine learning techniques. Our dataset is a random sample of size 5000 properties available for sale in the city of Rio de Janeiro.
