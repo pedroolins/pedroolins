@@ -27,6 +27,17 @@
   * the main objective of this study project is to develop a real estate valuation system using the linear regression methodology, which is one of the machine learning techniques. Our dataset is a random sample of size 5000 properties available for sale in the city of Rio de Janeiro.
   * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
+### [Exploratory Data Analysis (EDA)](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
+
+### [Statistical Hypothesis Tests](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
+
+### [Web Scraping with Python](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+
 ## Skills
 
 <table align="center">
