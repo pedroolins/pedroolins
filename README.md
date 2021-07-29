@@ -17,6 +17,28 @@
   * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
   * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
+## Data Science Study Projects:
+
+### [Linear Regression I](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
+
+### [Linear Regression II](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
+ 
+### [Exploratory Data Analysis (EDA)](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
+
+### [Statistical Hypothesis Tests](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
+
+### [Web Scraping with Python](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
+
 ## Skills
 
 <table align="center">
