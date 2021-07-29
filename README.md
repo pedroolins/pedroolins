@@ -17,26 +17,14 @@
   * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
   * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
-## Data Science Study Projects:
+## what have i been studying:
 
 ### [Linear Regression I](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
-  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+  * The aim of this study project will be to estimate a Machine Learning model using the Linear Regression technique to demonstrate the impacts of the variables provided in this dataset on beer consumption (Y). At the end of the project we will have a forecast model for the average beer consumption according to the inputs of a set of variables (X's).
   * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
 ### [Linear Regression II](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
-  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
-  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
- 
-### [Exploratory Data Analysis (EDA)](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
-  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
-  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
-
-### [Statistical Hypothesis Tests](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
-  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
-  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
-
-### [Web Scraping with Python](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
-  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
+  * the main objective of this study project is to develop a real estate valuation system using the linear regression methodology, which is one of the machine learning techniques. Our dataset is a random sample of size 5000 properties available for sale in the city of Rio de Janeiro.
   * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
 ## Skills
