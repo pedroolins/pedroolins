@@ -13,7 +13,7 @@
 
 ## Data Science Projects:
 
-### [COVID-19 em Pernambuco - (Analysis Problem)](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+### [COVID-19 em Pernambuco](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
   * Pernambuco é um dos estados brasileiros com o maior número de casos notificados de coronavírus e este projeto consiste na análise e visualização dos dados da Covid-19 no estado de Pernambuco.
   * Repositório: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
@@ -93,7 +93,7 @@
 <p align="center">
 
 <div align="center">
-  <h3 align="center">Fala comigo, será um p<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+    <h3 align="center"><p>Fala comigo!</P><p>Será um prazer conhecer você :)</p><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/joao-pedro-lins/" target="blank">
