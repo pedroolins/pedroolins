@@ -1,44 +1,44 @@
 ## João Pedro Lins - [Data Scientist] 👋
 
-## Electrical Engineering Student turned Data Scientist who loves to create solutions through data science that have positive effects on business and society!
+## Eu sou um estudante de Engenharia Elétrica que se tornou Data Scientist e tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
 
 <p align='center'>
     <img height=300px src='https://github.com/pedroolins/pedroolins/blob/main/programador.png?raw=true'<
 </p>
 
-- 💻 I’m a Data Scientist
-- 📈 I’m constantly learning and Improving my skills
-- 📊 I’m looking to collaborate with other Data Scientists and developers 
+- 💻 Eu sou um Data Scientist
+- 📈 Estou sempre em busca de aprender e melhorar minhas skills
+- 📊 Procuro colaborar com outros Data Scientists e desenvolvedores  
 
 
 ## Data Science Projects:
 
-### [COVID-19 in Pernambuco](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
-  * Pernambuco is one of the Brazilian states with the highest number of reported cases of coronavirus and this project consists of an analysis and visualization of data from Covid-19 in the state of Pernambuco.
-  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
+### [COVID-19 em Pernambuco - (Analysis Problem)](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+  * Pernambuco é um dos estados brasileiros com o maior número de casos notificados de coronavírus e este projeto consiste na análise e visualização dos dados da Covid-19 no estado de Pernambuco.
+  * Repositório: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
-## what have i been studying:
+## O que tenho estudado:
 
 ### [Linear Regression I](https://github.com/pedroolins/Linear-Regression-I)
-  * The aim of this study project will be to estimate a Machine Learning model using the Linear Regression technique to demonstrate the impacts of the variables provided in this dataset on beer consumption (Y). At the end of the project we will have a forecast model for the average beer consumption according to the inputs of a set of variables (X's).
-  * Repository: https://github.com/pedroolins/Linear-Regression-I
+  * O objetivo deste projeto de estudo será estimar um modelo de Aprendizado de Máquina utilizando a técnica de Regressão Linear para demonstrar os impactos das variáveis fornecidas neste conjunto de dados no consumo de cerveja (Y). Ao final do projeto teremos um modelo de previsão do consumo médio de cerveja de acordo com as entradas de um conjunto de variáveis (X's).
+  * Repositório: https://github.com/pedroolins/Linear-Regression-I
 
 ### [Linear Regression II](https://github.com/pedroolins/Linear-Regression-II)
-  * the main objective of this study project is to develop a real estate valuation system using the linear regression methodology, which is one of the machine learning techniques. Our dataset is a random sample of size 5000 properties available for sale in the city of Rio de Janeiro.
-  * Repository: https://github.com/pedroolins/Linear-Regression-II
+  * o objetivo principal deste projeto de estudo é desenvolver um sistema de avaliação imobiliária utilizando a metodologia de regressão linear, que é uma das técnicas de aprendizagem de máquina. Nosso conjunto de dados é uma amostra aleatória de 5.000 imóveis disponíveis para venda na cidade do Rio de Janeiro.
+  * Repositório: https://github.com/pedroolins/Linear-Regression-II
 
 ### [Exploratory Data Analysis (EDA)](https://github.com/pedroolins/Exploratory-Data-Analysis)
-  * This is a repository of a study project in which I did an exploratory data analysis in a tip dataset.
-  * Repository: https://github.com/pedroolins/Exploratory-Data-Analysis
-  * This is a repository of a study project in which I did an exploratory data analysis in a PNAD dataset.
-  * Repository: https://github.com/pedroolins/Analise-descritiva-PNAD-2015
+  * Este é um repositório de um projeto de estudo no qual fiz uma análise exploratória de dados em um conjunto de dados de gorjetas.
+  * Repositório: https://github.com/pedroolins/Exploratory-Data-Analysis
+  * Este é um repositório de um projeto de estudo no qual fiz uma análise exploratória de dados em um conjunto de dados da Pesquisa Nacional por Amostra de Domicílios (PNAD-2015).
+  * Repositório: https://github.com/pedroolins/Analise-descritiva-PNAD-2015
 
 ### [Statistical Hypothesis Tests](https://github.com/pedroolins/Introduction-to-Statistical-Hypothesis-Tests)
-  * This is a repository of a study project in which I did exploratory data analysis and also used statistical hypothesis tests on a movie dataset.
-  * Repository: https://github.com/pedroolins/Introduction-to-Statistical-Hypothesis-Tests
+  * Este é um repositório de um projeto de estudo no qual fiz além de uma análise exploratória de dados, testes de hipóteses estatísticos em um conjunto de dados de filmes.
+  * Repositório: https://github.com/pedroolins/Introduction-to-Statistical-Hypothesis-Tests
 
-### [Web Scraping with Python](https://github.com/pedroolins/Web-Scraping)
-  * Repository: https://github.com/pedroolins/Web-Scraping
+### [Web Scraping](https://github.com/pedroolins/Web-Scraping)
+  * Repositório: https://github.com/pedroolins/Web-Scraping
 
 ## Skills
 
@@ -93,7 +93,7 @@
 <p align="center">
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Fala comigo, será um p<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/joao-pedro-lins/" target="blank">
