@@ -1,6 +1,6 @@
 ## João Pedro Lins - [Data Scientist] 👋
 
-## Eu sou um estudante de Engenharia Elétrica que se tornou Data Scientist e tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
+## Olá, eu sou um estudante de Engenharia Elétrica que se tornou Data Scientist e tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
 
 <p align='center'>
     <img height=300px src='https://github.com/pedroolins/pedroolins/blob/main/programador.png?raw=true'<
@@ -46,8 +46,8 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>PostgreSQL</span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
+        <span>SQL</span><br><br>
+        <img height="64px" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png">
       </td>
       <td width="25%" align="center">
         <span>Python</span><br><br>
