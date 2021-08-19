@@ -1,6 +1,6 @@
 ## João Pedro Lins - [Data Scientist] 👋
 
-## Olá, eu sou um estudante de Engenharia Elétrica que se tornou Data Scientist e tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
+## Olá, eu sou um estudante de Engenharia Elétrica que se tornou Cientista de Dados e tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
 
 <p align='center'>
     <img height=300px src='https://github.com/pedroolins/pedroolins/blob/main/programador.png?raw=true'<
