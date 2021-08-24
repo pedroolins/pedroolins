@@ -3,7 +3,7 @@
 ## Olá, eu sou um estudante de Engenharia Elétrica que se tornou Cientista de Dados e tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
 
 <p align='center'>
-    <img height=300px src='https://github.com/pedroolins/pedroolins/blob/main/programador.png?raw=true'<
+    <img height=300px src='https://cdn.dribbble.com/users/213408/screenshots/2571632/bcb-header.gif'>
 </p>
 
 - 💻 Eu sou um cientista de dados
