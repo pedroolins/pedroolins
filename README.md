@@ -85,6 +85,18 @@
         <span>statsmodels</span><br><br>
         <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Streamlit</span><br><br>
+        <img height="64px" src="https://ruslanmv.com/assets/images/posts/2020-10-17-Web-Application-Classification/streamlit_logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span>R</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Shiny</span><br><br>
+        <img height="64px" src="https://www.worldbank.org/content/dam/photos/780x439/2021/apr/Shiny-logo.png">
+      </td>
     </tr>
   </tbody>
 </table>
