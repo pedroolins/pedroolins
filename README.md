@@ -92,7 +92,7 @@
       </td>
       <td width="25%" align="center">
         <span>Streamlit</span><br><br>
-        <img height="64px" src="https://ruslanmv.com/assets/images/posts/2020-10-17-Web-Application-Classification/streamlit_logo.png">
+        <img height="64px" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/spark21-768x512.png">
       </td>
       <td width="25%" align="center">
         <span>R</span><br><br>
