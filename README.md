@@ -6,9 +6,9 @@
     <img height=300px src='https://github.com/pedroolins/pedroolins/blob/main/programador.png?raw=true'<
 </p>
 
-- 💻 Eu sou um Data Scientist
-- 📈 Estou sempre em busca de aprender e melhorar minhas skills
-- 📊 Procuro colaborar com outros Data Scientists e desenvolvedores  
+- 💻 Eu sou um cientista de dados
+- 📈 Estou sempre em busca de melhorar e aprender novas skills
+- 📊 Procuro colaborar com outros cientistas de dados e desenvolvedores  
 
 
 ## Data Science Projects:
