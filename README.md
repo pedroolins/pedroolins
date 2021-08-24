@@ -13,6 +13,10 @@
 
 ## Data Science Projects:
 
+### [Precificação de imóveis (Regressão Linear)](https://github.com/pedroolins/house-prices)
+  * O problema de negócio deste projeto vem a partir da empresa Beautiful Houses, que tem como modelo de negócio a compra, reforma e venda de imóveis. Portanto a mesma vem sofrendo de um sério problema, que é pagar um valor ideal e justo na compra imóveis a partir de suas determinadas características (área, n° de banheiros e etc..), afinal niguém gosta de saber que investiu um valor alto demais na compra de um imóvel que não vale o valor investido, principalmente uma empresa que tem a compra e venda de imóveis como modelo de negócio. Dessa forma, quanto mais a organização comprar imóveis pelo seu valor ideal de mercado, mais lucro ela irá obter posteriormente na venda deste imóvel.
+  * Repositório: https://github.com/pedroolins/house-prices
+
 ### [COVID-19 em Pernambuco](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
   * Pernambuco é um dos estados brasileiros com o maior número de casos notificados de coronavírus e este projeto consiste na análise e visualização dos dados da Covid-19 no estado de Pernambuco.
   * Repositório: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
