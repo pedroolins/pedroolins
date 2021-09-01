@@ -103,6 +103,16 @@
         <img height="64px" src="https://www.worldbank.org/content/dam/photos/780x439/2021/apr/Shiny-logo.png">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>dplyr</span><br><br>
+        <img height="64px" src="https://brunaw.com/slides/rladies-sp/13-08-2018/img/dplyr.png">
+      </td>
+      <td width="25%" align="center">
+        <span>ggplot2</span><br><br>
+        <img height="64px" src="https://ggplot2.tidyverse.org/logo.png">
+      </td>
+    </tr>
   </tbody>
 </table>
 
