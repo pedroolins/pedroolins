@@ -1,44 +1,43 @@
 ## João Pedro Lins - [Data Scientist] 👋
 
-## Olá, eu sou um estudante de Engenharia Elétrica que se tornou Cientista de Dados e tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
+## Olá, eu sou cientista de Dados que tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
 
 <p align='center'>
     <img height=300px src='https://cdn.dribbble.com/users/213408/screenshots/2571632/bcb-header.gif'>
 </p>
 
-- 💻 Eu sou um cientista de dados
 - 📈 Estou sempre em busca de melhorar e aprender novas skills
 - 📊 Procuro colaborar com outros cientistas de dados e desenvolvedores  
 
 
-## Data Science Projects:
+## Meus Projetos:
 
 ### [Precificação de imóveis (Regressão Linear)](https://github.com/pedroolins/house-prices)
   * O problema de negócio deste projeto vem a partir da empresa Beautiful Houses, que tem como modelo de negócio a compra, reforma e venda de imóveis. Portanto, a mesma vem sofrendo de um sério problema, que é pagar um valor ideal e justo na compra imóveis a partir de suas determinadas características (área, n° de banheiros e etc..). Afinal, ninguém gosta de saber que investiu um valor alto demais na compra de um imóvel que não vale o valor investido, principalmente uma empresa que tem a compra e venda de imóveis como modelo de negócio. Dessa forma, quanto mais imóveis a empresa comprar pelo seu valor ideal de mercado, maior será o lucro obtido na venda.
   * Repositório: https://github.com/pedroolins/house-prices
   * Web App: https://share.streamlit.io/pedroolins/house-prices/main
 
-### [COVID-19 em Pernambuco](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+### [COVID-19 em Pernambuco (EDA)](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
   * Pernambuco é um dos estados brasileiros com o maior número de casos notificados de coronavírus e este projeto consiste na análise e visualização dos dados da Covid-19 no estado de Pernambuco.
   * Repositório: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
 ## O que tenho estudado:
 
-### [Linear Regression I](https://github.com/pedroolins/Linear-Regression-I)
+### [Regressão Linear I](https://github.com/pedroolins/Linear-Regression-I)
   * O objetivo deste projeto de estudo será estimar um modelo de Aprendizado de Máquina utilizando a técnica de Regressão Linear para demonstrar os impactos das variáveis fornecidas neste conjunto de dados no consumo de cerveja (Y). Ao final do projeto teremos um modelo de previsão do consumo médio de cerveja de acordo com as entradas de um conjunto de variáveis (X's).
   * Repositório: https://github.com/pedroolins/Linear-Regression-I
 
-### [Linear Regression II](https://github.com/pedroolins/Linear-Regression-II)
+### [Regressão Linear II](https://github.com/pedroolins/Linear-Regression-II)
   * o objetivo principal deste projeto de estudo é desenvolver um sistema de avaliação imobiliária utilizando a metodologia de regressão linear, que é uma das técnicas de aprendizagem de máquina. Nosso conjunto de dados é uma amostra aleatória de 5.000 imóveis disponíveis para venda na cidade do Rio de Janeiro.
   * Repositório: https://github.com/pedroolins/Linear-Regression-II
 
-### [Exploratory Data Analysis (EDA)](https://github.com/pedroolins/Exploratory-Data-Analysis)
+### [Análise exploratória de dados (EDA)](https://github.com/pedroolins/Exploratory-Data-Analysis)
   * Este é um repositório de um projeto de estudo no qual fiz uma análise exploratória de dados em um conjunto de dados de gorjetas.
   * Repositório: https://github.com/pedroolins/Exploratory-Data-Analysis
   * Este é um repositório de um projeto de estudo no qual fiz uma análise exploratória de dados em um conjunto de dados da Pesquisa Nacional por Amostra de Domicílios (PNAD-2015).
   * Repositório: https://github.com/pedroolins/Analise-descritiva-PNAD-2015
 
-### [Statistical Hypothesis Tests](https://github.com/pedroolins/Introduction-to-Statistical-Hypothesis-Tests)
+### [Teste de Hipóteses](https://github.com/pedroolins/Introduction-to-Statistical-Hypothesis-Tests)
   * Este é um repositório de um projeto de estudo no qual fiz além de uma análise exploratória de dados, testes de hipóteses estatísticos em um conjunto de dados de filmes.
   * Repositório: https://github.com/pedroolins/Introduction-to-Statistical-Hypothesis-Tests
 
@@ -111,6 +110,10 @@
       <td width="25%" align="center">
         <span>ggplot2</span><br><br>
         <img height="64px" src="https://ggplot2.tidyverse.org/logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span>lubridate</span><br><br>
+        <img height="64px" src="https://pbs.twimg.com/media/CQ5yCmvWoAAcTfI.png">
       </td>
     </tr>
   </tbody>
