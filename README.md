@@ -91,7 +91,7 @@
       </td>
       <td width="25%" align="center">
         <span>Streamlit</span><br><br>
-        <img height="64px" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/12/spark21-768x512.png">
+        <img height="64px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png">
       </td>
       <td width="25%" align="center">
         <span>R</span><br><br>
@@ -115,6 +115,10 @@
         <span>lubridate</span><br><br>
         <img height="64px" src="https://pbs.twimg.com/media/CQ5yCmvWoAAcTfI.png">
       </td>
+      <td width="25%" align="center">
+        <span>tidyr</span><br><br>
+        <img height="64px" src="https://www.dadosaleatorios.com.br/post/introducao-ao-tidyr/featured.png">
+      </td>   
     </tr>
   </tbody>
 </table>
