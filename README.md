@@ -1,6 +1,6 @@
-## Olá, eu sou o João Pedro Lins👋
+## Olá, eu sou o João Pedro Lins - Data Scientist na TV GLOBO👋
 
-## Um cientista de dados que tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
+## Sou um cientista de dados que tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
 
 <p align='center'>
     <img height=300px src='https://cdn.dribbble.com/users/213408/screenshots/2571632/bcb-header.gif'>
@@ -98,27 +98,19 @@
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png">
       </td>
       <td width="25%" align="center">
-        <span>Shiny</span><br><br>
-        <img height="64px" src="https://www.worldbank.org/content/dam/photos/780x439/2021/apr/Shiny-logo.png">
+        <span>Tidyverse</span><br><br>
+        <img height="64px" src="https://tidyverse.tidyverse.org/logo.png">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>dplyr</span><br><br>
-        <img height="64px" src="https://brunaw.com/slides/rladies-sp/13-08-2018/img/dplyr.png">
+        <span>Shiny</span><br><br>
+        <img height="64px" src="https://www.worldbank.org/content/dam/photos/780x439/2021/apr/Shiny-logo.png">
       </td>
       <td width="25%" align="center">
-        <span>ggplot2</span><br><br>
-        <img height="64px" src="https://ggplot2.tidyverse.org/logo.png">
+        <span>Rmarkdown</span><br><br>
+        <img height="64px" src="https://privefl.github.io/R-presentation/rmarkdown.png">
       </td>
-      <td width="25%" align="center">
-        <span>lubridate</span><br><br>
-        <img height="64px" src="https://pbs.twimg.com/media/CQ5yCmvWoAAcTfI.png">
-      </td>
-      <td width="25%" align="center">
-        <span>tidyr</span><br><br>
-        <img height="64px" src="https://www.dadosaleatorios.com.br/post/introducao-ao-tidyr/featured.png">
-      </td>   
     </tr>
   </tbody>
 </table>
