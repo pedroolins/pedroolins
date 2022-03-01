@@ -6,9 +6,21 @@
     <img height=300px src='https://cdn.dribbble.com/users/213408/screenshots/2571632/bcb-header.gif'>
 </p>
 
+<div style="display: inline_block" align="center">
+  <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png">
+  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Tensorflow" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="GCP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Linux" height="40" width="90" src="https://dash.plotly.com/assets/images/light_plotly_dash_logo.png">
+  <img align="center" alt="sklearn" height="40" width="50" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
+</div>
+
 - 📈 Estou sempre em busca de melhorar e aprender novas skills
 - 📊 Procuro colaborar com outros cientistas de dados e desenvolvedores  
-
 
 ## Meus Projetos:
 
@@ -63,7 +75,7 @@
       </td>
       <td width="25%" align="center">
         <span>NumPy</span><br><br>
-        <img height="64px" src="https://numpy.org/images/logos/numpy.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png">
       </td>
     </tr>
     <tr valign="top">
@@ -98,18 +110,26 @@
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png">
       </td>
       <td width="25%" align="center">
-        <span>Tidyverse</span><br><br>
-        <img height="64px" src="https://tidyverse.tidyverse.org/logo.png">
+        <span>Google cloud plataform</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Shiny</span><br><br>
-        <img height="64px" src="https://www.worldbank.org/content/dam/photos/780x439/2021/apr/Shiny-logo.png">
+        <span>Docker</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       </td>
       <td width="25%" align="center">
-        <span>Rmarkdown</span><br><br>
-        <img height="64px" src="https://privefl.github.io/R-presentation/rmarkdown.png">
+        <span>Tensorflow</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Plotly Dash</span><br><br>
+        <img height="64px" src="https://dash.plotly.com/assets/images/light_plotly_dash_logo.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Flask</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
       </td>
     </tr>
   </tbody>
