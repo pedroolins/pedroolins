@@ -15,7 +15,7 @@
   <img align="center" alt="Tensorflow" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="GCP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Linux" height="40" width="90" src="https://dash.plotly.com/assets/images/light_plotly_dash_logo.png">
+  <img align="center" alt="plotly dash" height="40" width="90" src="https://dash.plotly.com/assets/images/light_plotly_dash_logo.png">
   <img align="center" alt="sklearn" height="40" width="50" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
 </div>
 
