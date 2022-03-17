@@ -11,14 +11,13 @@
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="SQL" height="40" width="50" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png">
-  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="sklearn" height="30" width="40" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
   <img align="center" alt="Tensorflow" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="GCP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="plotly dash" height="40" width="90" src="https://dash.plotly.com/assets/images/light_plotly_dash_logo.png">
-  <img align="center" alt="sklearn" height="40" width="50" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
+  <img align="center" alt="plotly dash" height="40" width="100" src="https://dash.plotly.com/assets/images/light_plotly_dash_logo.png">
 </div>
-
 - 📈 Estou sempre em busca de melhorar e aprender novas skills
 - 📊 Procuro colaborar com outros cientistas de dados e desenvolvedores  
 
