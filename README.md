@@ -18,6 +18,7 @@
   <img align="center" alt="GCP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="plotly dash" height="40" width="100" src="https://dash.plotly.com/assets/images/light_plotly_dash_logo.png">
 </div>
+
 - 📈 Estou sempre em busca de melhorar e aprender novas skills
 - 📊 Procuro colaborar com outros cientistas de dados e desenvolvedores  
 
