@@ -9,11 +9,11 @@
 <div style="display: inline_block" align="center">
   <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="SQL" height="40" width="50" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png">
   <img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="sklearn" height="30" width="40" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
-  <img align="center" alt="Tensorflow" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://comunicall.com.br/wp-content/uploads/2017/09/linux.png">
+  <img align="center" alt="streamlit" height="30" width="40" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png">
   <img align="center" alt="Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="GCP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="plotly dash" height="40" width="100" src="https://dash.plotly.com/assets/images/light_plotly_dash_logo.png">
@@ -105,8 +105,8 @@
         <img height="64px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png">
       </td>
       <td width="25%" align="center">
-        <span>R</span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png">
+        <span>Github Actions</span><br><br>
+        <img height="64px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4">
       </td>
       <td width="25%" align="center">
         <span>Google cloud plataform</span><br><br>
@@ -119,8 +119,8 @@
         <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       </td>
       <td width="25%" align="center">
-        <span>Tensorflow</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+        <span>Data Studio</span><br><br>
+        <img height="64px" src="https://miro.medium.com/max/1400/0*MxEInXqPp1REZ3ik.jpg">
       </td>
       <td width="25%" align="center">
         <span>Plotly Dash</span><br><br>
