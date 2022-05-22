@@ -28,6 +28,11 @@
   * Neste projeto realizo um data pipeline utilizando python e alguns serviços do GCP como o google cloud run, google BigQuery, google cloud scheduler e google pubusub. Nele também utilizo o github actions para realizar pipelines de integração contínua (CI) e entrega contínua.
   * Repositório: https://github.com/pedroolins/youtube_data_pipeline
 
+### [Palestra sobre docker e GCP](https://github.com/pedroolins/deploy_streamlit_live_estatidados)
+  * Este é o repositório do projeto realizado na palestra sobre deploy de modelos de machine learning, na comunidade do EstaTiDados, Nessa palestra montei uma aplicação do zero com streamlit, abordei tecnologias como Docker e ensinei a fazer o deploy da aplicação dentro do Google Cloud Platform no App Engine.
+  * Repositório: https://github.com/pedroolins/deploy_streamlit_live_estatidados
+  * Link da palestra no youtube: https://www.youtube.com/watch?v=i4IpSpfvHaY&t=7347s
+
 ### [Precificação de imóveis (Regressão Linear)](https://github.com/pedroolins/house-prices)
   * O problema de negócio deste projeto vem a partir da empresa Beautiful Houses, que tem como modelo de negócio a compra, reforma e venda de imóveis. Portanto, a mesma vem sofrendo de um sério problema, que é pagar um valor ideal e justo na compra imóveis a partir de suas determinadas características (área, n° de banheiros e etc..). Afinal, ninguém gosta de saber que investiu um valor alto demais na compra de um imóvel que não vale o valor investido, principalmente uma empresa que tem a compra e venda de imóveis como modelo de negócio. Dessa forma, quanto mais imóveis a empresa comprar pelo seu valor ideal de mercado, maior será o lucro obtido na venda.
   * Repositório: https://github.com/pedroolins/house-prices
