@@ -42,29 +42,6 @@
   * Pernambuco é um dos estados brasileiros com o maior número de casos notificados de coronavírus e este projeto consiste na análise e visualização dos dados da Covid-19 no estado de Pernambuco.
   * Repositório: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
-## O que tenho estudado:
-
-### [Regressão Linear I](https://github.com/pedroolins/Linear-Regression-I)
-  * O objetivo deste projeto de estudo será estimar um modelo de Aprendizado de Máquina utilizando a técnica de Regressão Linear para demonstrar os impactos das variáveis fornecidas neste conjunto de dados no consumo de cerveja (Y). Ao final do projeto teremos um modelo de previsão do consumo médio de cerveja de acordo com as entradas de um conjunto de variáveis (X's).
-  * Repositório: https://github.com/pedroolins/Linear-Regression-I
-
-### [Regressão Linear II](https://github.com/pedroolins/Linear-Regression-II)
-  * o objetivo principal deste projeto de estudo é desenvolver um sistema de avaliação imobiliária utilizando a metodologia de regressão linear, que é uma das técnicas de aprendizagem de máquina. Nosso conjunto de dados é uma amostra aleatória de 5.000 imóveis disponíveis para venda na cidade do Rio de Janeiro.
-  * Repositório: https://github.com/pedroolins/Linear-Regression-II
-
-### [Análise exploratória de dados (EDA)](https://github.com/pedroolins/Exploratory-Data-Analysis)
-  * Este é um repositório de um projeto de estudo no qual fiz uma análise exploratória de dados em um conjunto de dados de gorjetas.
-  * Repositório: https://github.com/pedroolins/Exploratory-Data-Analysis
-  * Este é um repositório de um projeto de estudo no qual fiz uma análise exploratória de dados em um conjunto de dados da Pesquisa Nacional por Amostra de Domicílios (PNAD-2015).
-  * Repositório: https://github.com/pedroolins/Analise-descritiva-PNAD-2015
-
-### [Teste de Hipóteses](https://github.com/pedroolins/Introduction-to-Statistical-Hypothesis-Tests)
-  * Este é um repositório de um projeto de estudo no qual fiz além de uma análise exploratória de dados, testes de hipóteses estatísticos em um conjunto de dados de filmes.
-  * Repositório: https://github.com/pedroolins/Introduction-to-Statistical-Hypothesis-Tests
-
-### [Web Scraping](https://github.com/pedroolins/Web-Scraping)
-  * Repositório: https://github.com/pedroolins/Web-Scraping
-
 ## Skills
 
 <table align="center">
