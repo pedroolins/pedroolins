@@ -1,6 +1,6 @@
-## Olá, eu sou o João Pedro Lins - Data Scientist na TV GLOBO👋
+## Olá, eu sou o João Pedro Lins - Machine Leraning Engineer na TV GLOBO👋
 
-## Sou um cientista de dados que tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
+## Sou um machine learning engineer que tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
 
 <p align='center'>
     <img height=300px src='https://cdn.dribbble.com/users/213408/screenshots/2571632/bcb-header.gif'>
