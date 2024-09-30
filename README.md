@@ -48,12 +48,12 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>SQL</span><br><br>
-        <img height="64px" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png">
-      </td>
-      <td width="25%" align="center">
         <span>Python</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>SQL</span><br><br>
+        <img height="64px" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png">
       </td>
       <td width="25%" align="center">
         <span>pandas</span><br><br>
@@ -66,26 +66,26 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Matplotlib</span><br><br>
-        <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
+        <span>Google Cloud Plataform</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
       </td>
       <td width="25%" align="center">
-        <span>seaborn</span><br><br>
-        <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+        <span>Docker</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       </td>
       <td width="25%" align="center">
         <span>scikit-learn</span><br><br>
         <img height="64px" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
       </td>
       <td width="25%" align="center">
-        <span>SciPy</span><br><br>
-        <img height="64px" src="https://bids.berkeley.edu/sites/default/files/styles/450x254/public/projects/scipy_logo_450x254.png?itok=kcdZBxrP">
+        <span>LangChain</span><br><br>
+        <img height="64px" src="https://media.licdn.com/dms/image/v2/D4D12AQGQQFHNeQJRgQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1711873462713?e=1733356800&v=beta&t=84zKE0OMts6cGriVgqpa0MAG4vW81M6sr2TS5NaolMs">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>statsmodels</span><br><br>
-        <img height="64px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg">
+        <span>Spacy</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/120px-SpaCy_logo.svg.png">
       </td>
       <td width="25%" align="center">
         <span>Streamlit</span><br><br>
@@ -96,26 +96,26 @@
         <img height="64px" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4">
       </td>
       <td width="25%" align="center">
-        <span>Google cloud plataform</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+        <span>Flask</span><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Docker</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+        <span>Seaborn</span><br><br>
+        <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
       </td>
       <td width="25%" align="center">
-        <span>Data Studio</span><br><br>
-        <img height="64px" src="https://miro.medium.com/max/1400/0*MxEInXqPp1REZ3ik.jpg">
+        <span>Looker Studio</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png?20210222181719">
       </td>
       <td width="25%" align="center">
         <span>Plotly Dash</span><br><br>
         <img height="64px" src="https://dash.plotly.com/assets/images/light_plotly_dash_logo.png">
       </td>
       <td width="25%" align="center">
-        <span>Flask</span><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+        <span>Matplotlib</span><br><br>
+        <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
       </td>
     </tr>
   </tbody>
