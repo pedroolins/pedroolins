@@ -1,28 +1,38 @@
-## Olá, eu sou o João Pedro Lins - Machine Learning Engineer na TV GLOBO👋
+## Hi, I'm João Pedro Lins
 
-## Sou um machine learning engineer que tem como paixão solucionar problemas através da ciência de dados que tenham efeitos positivos nos negócios e na sociedade!
+## Machine learning Engineer and Data Scientist🚀
 
-<p align='center'>
-    <img height=300px src='https://cdn.dribbble.com/users/213408/screenshots/2571632/bcb-header.gif'>
-</p>
+### About Me 👨‍💻
+🚀<b>I'm a Machine Learning Engineer with over 3+ years of experience in data science. With a deep understanding of data science, software engineering and machine learning algorithms, i am able to design and develop innovative solutions that deliver measurable results for my projects.</b>💡📈
 
-<div style="display: inline_block" align="center">
-  <img align="center" alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="40" width="50" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png">
-  <img align="center" alt="Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="sklearn" height="30" width="40" src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png">
-  <img align="center" alt="linux" height="30" width="40" src="https://comunicall.com.br/wp-content/uploads/2017/09/linux.png">
-  <img align="center" alt="streamlit" height="30" width="40" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png">
-  <img align="center" alt="Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" alt="GCP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="plotly dash" height="40" width="100" src="https://dash.plotly.com/assets/images/light_plotly_dash_logo.png">
-</div>
+⭐️ I have experience in:
 
-- 📈 Estou sempre em busca de melhorar e aprender novas skills
-- 📊 Procuro colaborar com outros cientistas de dados e desenvolvedores  
+* 🔹 🏗️🔧 Building data products and infrastructure from scratch to serve the business team.
+* 🔹 🔥🚀 Developing ETL pipelines for optimizing data delivery and ensuring data quality.
+* 🔹 🧠🔬 Creating machine learning models.
+* 🔹 ⚙️🌐 Building APIs for process automation and serving machine learning models.
+* 🔹 🗂️🔍 Automating the end-to-end process of training and deploying machine learning models.
 
-## Meus Projetos:
+🧠⚙️ Those are the main technologies I've been working with:
+* Python;
+* SQL;
+* Docker;
+* Google Cloud Plataform (Bigquery, Cloud Storage, Cloud Run, Cloud functions, App Engine);
+* Web scraping techniques (Scrapy, Beautiful Soup, Selenium).;
+* NLP techniques (Spcay and NLTK);
+* Github Actions;
+* scikit-learn;
+* LangChain;
+* Flask;
+* FastApi;
+* Streamlit;
+* Qdrant;
+* Looker Studio.
+
+## My Projects:
+
+### [Hotinho Assistant](https://github.com/pedroolins/llm_and_vector_database)
+* 
 
 ### [Youtube Data pipeline](https://github.com/pedroolins/youtube_data_pipeline)
   * Neste projeto realizo um data pipeline utilizando python e alguns serviços do GCP como o google cloud run, google BigQuery, google cloud scheduler e google pubusub. Nele também utilizo o github actions para realizar pipelines de integração contínua (CI) e entrega contínua.
