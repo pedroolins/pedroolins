@@ -32,25 +32,25 @@
 ## My Projects:
 
 ### [Hotinho Assistant](https://github.com/pedroolins/llm_and_vector_database)
-* 
+  * It's an assistant that helps you talk to your documents. First, you send text documents to hotinnho and then it asks you questions about the topics of the documents you've sent.
+  * Repository: https://github.com/pedroolins/llm_and_vector_database
 
 ### [Youtube Data pipeline](https://github.com/pedroolins/youtube_data_pipeline)
-  * Neste projeto realizo um data pipeline utilizando python e alguns serviços do GCP como o google cloud run, google BigQuery, google cloud scheduler e google pubusub. Nele também utilizo o github actions para realizar pipelines de integração contínua (CI) e entrega contínua.
-  * Repositório: https://github.com/pedroolins/youtube_data_pipeline
+  * In this project I make a data pipeline using python and some GCP services such as google cloud run, google BigQuery, google cloud scheduler and google pubusub. I also use github actions to carry out continuous integration (CI) and continuous delivery pipelines.
+  * Repository: https://github.com/pedroolins/youtube_data_pipeline
 
-### [Palestra sobre docker e GCP](https://github.com/pedroolins/deploy_streamlit_live_estatidados)
-  * Este é o repositório do projeto realizado na palestra sobre deploy de modelos de machine learning, na comunidade do EstaTiDados, Nessa palestra montei uma aplicação do zero com streamlit, abordei tecnologias como Docker e ensinei a fazer o deploy da aplicação dentro do Google Cloud Platform no App Engine.
-  * Repositório: https://github.com/pedroolins/deploy_streamlit_live_estatidados
-  * Link da palestra no youtube: https://www.youtube.com/watch?v=i4IpSpfvHaY&t=7347s
+### [Youtube Live about Docker and GCP](https://github.com/pedroolins/deploy_streamlit_live_estatidados)
+  * This is the repository of the project carried out in a YouTube Live I did on deploying machine learning models in the EstaTiDados community. In this Live, I set up an application from scratch with streamlit, covered technologies such as Docker and taught how to deploy the application on Google Cloud Platform in App Engine.
+  * Repository: https://github.com/pedroolins/deploy_streamlit_live_estatidados
+  * Live link on youtube: https://www.youtube.com/watch?v=i4IpSpfvHaY&t=7347s
 
-### [Precificação de imóveis (Regressão Linear)](https://github.com/pedroolins/house-prices)
-  * O problema de negócio deste projeto vem a partir da empresa Beautiful Houses, que tem como modelo de negócio a compra, reforma e venda de imóveis. Portanto, a mesma vem sofrendo de um sério problema, que é pagar um valor ideal e justo na compra imóveis a partir de suas determinadas características (área, n° de banheiros e etc..). Afinal, ninguém gosta de saber que investiu um valor alto demais na compra de um imóvel que não vale o valor investido, principalmente uma empresa que tem a compra e venda de imóveis como modelo de negócio. Dessa forma, quanto mais imóveis a empresa comprar pelo seu valor ideal de mercado, maior será o lucro obtido na venda.
-  * Repositório: https://github.com/pedroolins/house-prices
-  * Web App: https://share.streamlit.io/pedroolins/house-prices/main
+### [House Prices (Regression Problem)](https://github.com/pedroolins/house-prices)
+  * Housing prices are an important reflection of the economy, and housing price ranges are of great interest to both buyers and sellers. In this project, house prices will be predicted given explanatory variables that cover many aspects of residential houses. The goal of this project is to create a regression model that can accurately estimate the price of the house given the features.
+  * Repository: https://github.com/pedroolins/house-prices
 
-### [COVID-19 em Pernambuco (EDA)](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
-  * Pernambuco é um dos estados brasileiros com o maior número de casos notificados de coronavírus e este projeto consiste na análise e visualização dos dados da Covid-19 no estado de Pernambuco.
-  * Repositório: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
+### [COVID-19 in Pernambuco (EDA Problem)](https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO)
+  * Pernambuco is one of the Brazilian states with the highest number of reported coronavirus cases and this project consists of the analysis and visualization of Covid-19 data in the state of Pernambuco.
+  * Repository: https://github.com/pedroolins/COVID-19-ANALISE-PERNAMBUCO
 
 ## Skills
 
@@ -135,7 +135,7 @@
 <p align="center">
 
 <div align="center">
-    <h3 align="center"><p>Fala comigo!</P><p>Será um prazer conhecer você :)</p><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+    <h3 align="center"><p>send me a message!</p><p>It would be a pleasure to meet you :)</p><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/joao-pedro-lins/" target="blank">
