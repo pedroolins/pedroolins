@@ -3,25 +3,28 @@
 ## Machine learning Engineer and Data Scientist🚀
 
 ### About Me 👨‍💻
-🚀<b>I'm a Machine Learning Engineer with over 3+ years of experience in data science. With a deep understanding of data science, software engineering and machine learning algorithms, i am able to design and develop innovative solutions that deliver measurable results for my projects.</b>💡📈
+🚀<b>Senior Machine Learning Engineer with +3 years of experience, specializing in the automation of end-to-end machine learning pipelines on cloud platforms (GCP and AWS). My expertise includes designing and maintaining MLOps pipelines, building APIs for process automation, and deploying machine learning models as services. I'm also skilled in constructing CI/CD pipelines and developing automated tests to ensure service quality before deployment. Additionally, I create data products that empower stakeholders to make data-driven decisions. Currently, I'm expanding my knowledge in Generative AI, focusing on LLM (Large Language Models), LangChain, and Retrieval-Augmented Generation (RAG) to implement innovative AI solutions.</b>💡📈
 
 ⭐️ I have experience in:
 
 * 🔹 🏗️🔧 Building data products and infrastructure from scratch to serve the business team.
-* 🔹 🔥🚀 Developing ETL pipelines for optimizing data delivery and ensuring data quality.
+* 🔹 🔥🚀 Designing and maintaining MLOps pipelines.
 * 🔹 🧠🔬 Creating machine learning models.
 * 🔹 ⚙️🌐 Building APIs for process automation and serving machine learning models.
 * 🔹 🗂️🔍 Automating the end-to-end process of training and deploying machine learning models.
+* 🔹 ⚙️🚀 Constructing CI/CD pipelines.
 
 🧠⚙️ Those are the main technologies I've been working with:
 * Python;
 * SQL;
 * Docker;
 * Google Cloud Plataform (Bigquery, Cloud Storage, Cloud Run, Cloud functions, App Engine);
-* Web scraping techniques (Scrapy, Beautiful Soup, Selenium).;
+* Web scraping techniques (Scrapy, Beautiful Soup, Selenium);
+* MLOps;
 * NLP techniques (Spcay and NLTK);
 * Github Actions;
 * scikit-learn;
+* Retrieval Augmented Generation (RAG);
 * LangChain;
 * Flask;
 * FastApi;
@@ -124,8 +127,8 @@
         <img height="64px" src="https://dash.plotly.com/assets/images/light_plotly_dash_logo.png">
       </td>
       <td width="25%" align="center">
-        <span>Matplotlib</span><br><br>
-        <img height="64px" src="https://matplotlib.org/_images/sphx_glr_logos2_001.png">
+        <span>FastApi</span><br><br>
+        <img height="64px" src="https://miro.medium.com/v2/resize:fit:786/format:webp/0*_KEpmKDIUw-7za0t">
       </td>
     </tr>
   </tbody>
