@@ -92,7 +92,7 @@
       </td>
       <td width="25%" align="center">
         <span>LangChain</span><br><br>
-        <img height="64px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*7Lep2Jkqgt9BtiMt8icbSA.png">
+        <img height="64px" src="https://miro.medium.com/v2/resize:fit:622/1*MVJZLfszGGNiJ-UFK4U31A.png">
       </td>
     </tr>
     <tr valign="top">
