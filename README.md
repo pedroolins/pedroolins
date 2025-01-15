@@ -1,9 +1,9 @@
 ## Hi, I'm João Pedro Lins
 
-## Machine learning Engineer and Data Scientist🚀
+## Senior Data Scientist🚀
 
 ### About Me 👨‍💻
-🚀<b>Senior Machine Learning Engineer with +3 years of experience, specializing in the automation of end-to-end machine learning pipelines on cloud platforms (GCP and AWS). My expertise includes designing and maintaining MLOps pipelines, building APIs for process automation, and deploying machine learning models as services. I'm also skilled in constructing CI/CD pipelines and developing automated tests to ensure service quality before deployment. Additionally, I create data products that empower stakeholders to make data-driven decisions. Currently, I'm expanding my knowledge in Generative AI, focusing on LLM (Large Language Models), LangChain, and Retrieval-Augmented Generation (RAG) to implement innovative AI solutions.</b>💡📈
+🚀<b>Senior Data Scientist with +3 years of experience, specializing in the automation of end-to-end machine learning pipelines on cloud platforms (GCP and AWS). My expertise includes designing and maintaining MLOps pipelines, building APIs for process automation, and deploying machine learning models as services. I'm also skilled in constructing CI/CD pipelines and developing automated tests to ensure service quality before deployment. Additionally, I create data products that empower stakeholders to make data-driven decisions. Currently, I'm expanding my knowledge in Generative AI, focusing on LLM (Large Language Models), LangChain, and Retrieval-Augmented Generation (RAG) to implement innovative AI solutions.</b>💡📈
 
 ⭐️ I have experience in:
 
